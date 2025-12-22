@@ -63,7 +63,7 @@ Informatics Engineering student with dual expertise in **Backend Development** a
 ---
 
 ## 🏆 Certifications
-* **Red Hat System Administration I - Red Hat (2025)
+* **Red Hat System Administration I** - Red Hat (2025)
 * **Cyber Threat Management** – Cisco (2024)
 * **Endpoint Security** – Cisco (2024)
 * **Network Defense** – Cisco (2024)
