@@ -2,12 +2,12 @@
 **Security Researcher | Backend Engineer**
 
 📍 Mataram, Indonesia | 📧 dimasmaulanarizky215@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/dimasmrizky) | 🐙 [GitHub](https://github.com/penanamtomat) | 📝 [GitBook Writeups](https://penanamtomat.gitbook.io/writeup-cysec/)
+🔗 [LinkedIn](https://linkedin.com/in/dimasmrizky) | 🐙 [GitHub](https://github.com/penanamtomat) | 📝 [Medium](https://medium.com/@DimasMaul)
 
 ---
 
 ## 🚀 About Me
-Informatics Engineering student with dual expertise in **Backend Development** and **Cybersecurity**. Proven experience in building scalable web applications using **Python Flask** and **Docker**, while integrating robust security practices. Successfully developed complex systems ranging from **HR management platforms** to **malware analysis tools**. Currently managing server infrastructure and scalability as a DevOps.
+Entry-level Security Researcher and Backend Developer with hands-on experience in building automated malware analysis tools platform and scalable web applications.Proven experience in building automated malware analysis platforms and scalable web applications during my time at PT ITSEC Asia Tbk. I specialize in bridging the gap between machine learning and security, as demonstrated by my work on real-time phishing detection systems.
 
 ---
 
@@ -21,8 +21,14 @@ Informatics Engineering student with dual expertise in **Backend Development** a
 
 ## 💼 Experience
 
+### **Coding Teacher** @ Aishaa Learning Center
+*Jul 2025 – Dec 2025*
+* Delivered comprehensive programming lessons focusing on logic and computational thinking.
+* Simplified complex algorithms and data structures for beginners using Scratch and Blockly Games.
+* Mentored students through the end-to-end development of their first software projects
+
 ### **DevOps** @ Habzlab
-*Sep 2025 – Present*
+*Sep 2025 – Jan 2026*
 * Managed and maintained server infrastructure to ensure high availability for production environments.
 * Implemented scalable infrastructure solutions using Docker to support growing project demands.
 * Performed routine system maintenance and troubleshooting to minimize downtime.
@@ -37,7 +43,26 @@ Informatics Engineering student with dual expertise in **Backend Development** a
 
 ## 💻 Featured Projects
 
-### 1. Internal HR Management Platform
+### 1. ML-Based URL Phishing Detection (Undergraduate Thesis)
+**Tech Stack:** Jupyter Notebook, Python, JavaScript, HTML, Flask
+> *Problem:* Users need proactive, real-time protection against sophisticated phishing URLs that bypass traditional blacklists.
+> 
+> *Solution:* Engineered a machine learning classification model using Recursive Feature Elimination (RFE) to identify optimum > features for high-accuracy detection. I integrated the model into a functional browser extension to provide instant security alerts during web navigation.
+> 
+> *Key Features:*
+> * Real-time URL classification and alert system.
+> * Optimum feature selection using RFE for improved model performance.
+> * Seamless browser extension integration
+>
+> [🔗 View Repository](https://github.com/penanamtomat/undergraduate-thesis-project)
+
+### 2. Malware Analysis Sandbox Research
+**Tech Stack:** Python, Hybrid Analysis, Virtualization
+> Conducted a comparative analysis of malware behavior in different sandbox environments. Integrated external threat intelligence APIs to evaluate detection accuracy and evasion techniques.
+>
+> [🔗 View Repository](https://github.com/penanamtomat/crowdsourcing-malware-analysis)
+
+### 3. Internal HR Management Platform
 **Tech Stack:** Python Flask, Docker, PostgreSQL, GitLab
 > *Problem:* The HR team needed a secure way to manage employee data with strict access controls.
 >
@@ -48,13 +73,7 @@ Informatics Engineering student with dual expertise in **Backend Development** a
 > * Secure User Management (RBAC)
 > * Automated Deployment Pipeline
 
-### 2. Malware Analysis Sandbox Research
-**Tech Stack:** Python, Hybrid Analysis, Virtualization
-> Conducted a comparative analysis of malware behavior in different sandbox environments. Integrated external threat intelligence APIs to evaluate detection accuracy and evasion techniques.
->
-> [🔗 View Repository](https://github.com/penanamtomat/crowdsourcing-malware-analysis)
-
-### 3. Educational Institution Management System
+### 4. Educational Institution Management System
 **Tech Stack:** Python, Flask, MySQL, Bootstrap
 > Developed a web-based administration system to streamline student data management, attendance tracking, and reporting. Used MySQL for robust data storage and query optimization.
 >
@@ -64,10 +83,12 @@ Informatics Engineering student with dual expertise in **Backend Development** a
 
 ## 🏆 Certifications
 * **Red Hat System Administration I** - Red Hat (2025)
+* **Sertifikat MSIB Cyber Security Specialist** – Course-Net Indonesia (2024)
+* **Junior SOC Analyst (Talent Scouting Academy)** – Kementerian Komunikasi dan Informatika (2024)
 * **Cyber Threat Management** – Cisco (2024)
 * **Endpoint Security** – Cisco (2024)
 * **Network Defense** – Cisco (2024)
 * **Python Basic Zero to Hero** – ITEC (2023)
 
 ---
-*© 2025 Dimas Maulana Rizky. Hosted on GitHub Pages.*
+*© 2026 Dimas Maulana Rizky. Hosted on GitHub Pages.*
