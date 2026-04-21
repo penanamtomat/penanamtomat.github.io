@@ -15,23 +15,23 @@ Entry-level Security Researcher and Backend Developer with hands-on experience i
 * **Languages:** Python, C/C++, SQL, Bash Scripting.
 * **DevOps & Cloud:** Docker, Linux Administration, Git/GitLab CI.
 * **Security:** Security Analyst, Security Research, Malware Analysis.
-* **Backend:** Flask, MySQL, PostgreSQL, REST APIs.
+* **Backend:** Flask, FastAPI, MySQL, PostgreSQL, REST APIs.
 
 ---
 
 ## 💼 Experience
-
-### **Coding Teacher** @ Aishaa Learning Center
-*Jul 2025 – Dec 2025*
-* Delivered comprehensive programming lessons focusing on logic and computational thinking.
-* Simplified complex algorithms and data structures for beginners using Scratch and Blockly Games.
-* Mentored students through the end-to-end development of their first software projects
 
 ### **DevOps** @ Habzlab
 *Sep 2025 – Jan 2026*
 * Managed and maintained server infrastructure to ensure high availability for production environments.
 * Implemented scalable infrastructure solutions using Docker to support growing project demands.
 * Performed routine system maintenance and troubleshooting to minimize downtime.
+
+### **Coding Teacher** @ Aishaa Learning Center
+*Jul 2025 – Dec 2025*
+* Delivered comprehensive programming lessons focusing on logic and computational thinking.
+* Simplified complex algorithms and data structures for beginners using Scratch and Blockly Games.
+* Mentored students through the end-to-end development of their first software projects
 
 ### **Security Researcher Intern** @ PT ITSEC Asia Tbk
 *Feb 2025 – Jun 2025*
@@ -43,18 +43,23 @@ Entry-level Security Researcher and Backend Developer with hands-on experience i
 
 ## 💻 Featured Projects
 
-### 1. ML-Based URL Phishing Detection (Undergraduate Thesis)
-**Tech Stack:** Jupyter Notebook, Python, JavaScript, HTML, Flask
+### 1. PhishScamSense: Real-time Web Phishing URL Detection via a Browser Extension
+**Tech Stack:**  Jupyter Notebook, Python, FastAPI, Uvicorn, WXT Framework, React, TypeScript, TailwindCSS
 > *Problem:* Users need proactive, real-time protection against sophisticated phishing URLs that bypass traditional blacklists.
 > 
-> *Solution:* Engineered a machine learning classification model using Recursive Feature Elimination (RFE) to identify optimum > features for high-accuracy detection. I integrated the model into a functional browser extension to provide instant security alerts during web navigation.
+> *Solution:* PhishScamSense detects phishing and spam URLs as you browse using a Multimodal Fusion Architecture — combining 
+a Deep Learning NLP pipeline (DistilBERT + BiLSTM + Attention) with classical feature engineering, both feeding into 
+an XGBoost final classifier. The browser extension checks every navigation against a self-hosted FastAPI backend.
 > 
 > *Key Features:*
-> * Real-time URL classification and alert system.
-> * Optimum feature selection using RFE for improved model performance.
-> * Seamless browser extension integration
+> * Real-time 4-class URL classification on every page load (benign / phishing / malware / spam)
+> * Hybrid inference: deep semantic URL embeddings fused with 88 hand-engineered features
+> * Domain allowlist — 585+ trusted domain labels + 46 institutional TLD suffix patterns (`.ac.id`, `.go.id`, `.edu`, `.gov`) bypass ML for instant benign response
+> * Typosquatting detection against 257 known brands via Levenshtein distance
+> * Content-based signals when page HTML is available: external forms, null iframes, JS popups, unsafe anchors
+> * 
 >
-> [🔗 View Repository](https://github.com/penanamtomat/undergraduate-thesis-project)
+> [🔗 View Repository](https://github.com/penanamtomat/PhishScamSense)
 
 ### 2. Malware Analysis Sandbox Research
 **Tech Stack:** Python, Hybrid Analysis, Virtualization
