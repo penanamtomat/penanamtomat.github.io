@@ -57,7 +57,6 @@ an XGBoost final classifier. The browser extension checks every navigation again
 > * Domain allowlist — 585+ trusted domain labels + 46 institutional TLD suffix patterns (`.ac.id`, `.go.id`, `.edu`, `.gov`) bypass ML for instant benign response
 > * Typosquatting detection against 257 known brands via Levenshtein distance
 > * Content-based signals when page HTML is available: external forms, null iframes, JS popups, unsafe anchors
-> * 
 >
 > [🔗 View Repository](https://github.com/penanamtomat/PhishScamSense)
 
