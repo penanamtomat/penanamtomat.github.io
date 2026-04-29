@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-Entry-level Security Researcher and Backend Developer with hands-on experience in building automated malware analysis tools platform and scalable web applications.Proven experience in building automated malware analysis platforms and scalable web applications during my time at PT ITSEC Asia Tbk. I specialize in bridging the gap between machine learning and security, as demonstrated by my work on real-time phishing detection systems.
+Entry-level Security Engineer and Backend Developer with hands-on experience in building automated malware analysis tools platform and scalable web applications.Proven experience in building automated malware analysis platforms and scalable web applications during my time at PT ITSEC Asia Tbk. I specialize in bridging the gap between machine learning and security, as demonstrated by my work on real-time phishing detection systems.
 
 ---
 
